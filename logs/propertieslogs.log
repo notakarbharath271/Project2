@@ -1,0 +1,37 @@
+[INFO ] 2022-10-11 14:39:22.538 [main] LoginTest - Open URL
+[INFO ] 2022-10-11 14:39:27.588 [main] LoginTest - Open URL
+[INFO ] 2022-10-11 15:26:50.032 [TestNG-tests-1] LoginTest - Open URL
+[INFO ] 2022-10-11 15:26:56.450 [TestNG-tests-1] LoginTest - Open URL
+[INFO ] 2022-10-11 15:30:07.485 [TestNG-tests-1] LoginTest - Open URL
+[INFO ] 2022-10-11 15:30:13.246 [TestNG-tests-1] LoginTest - Open URL
+[INFO ] 2022-10-11 15:30:18.191 [TestNG-tests-1] LoginTest - Open URL
+[INFO ] 2022-10-11 15:30:20.535 [TestNG-tests-1] LoginTest - Created Landing page object.
+[INFO ] 2022-10-11 15:30:20.535 [TestNG-tests-1] LoginTest - By using the landing page object reference clicks on the myAccount.
+[INFO ] 2022-10-11 15:30:20.631 [TestNG-tests-1] LoginTest - By using the landing page object reference clicks on the Login.
+[INFO ] 2022-10-11 15:30:21.219 [TestNG-tests-1] LoginTest - Created Login page object.
+[INFO ] 2022-10-11 15:30:21.220 [TestNG-tests-1] LoginTest - By using the login page object reference enter username.
+[INFO ] 2022-10-11 15:30:21.380 [TestNG-tests-1] LoginTest - By using the login page object reference enter password.
+[INFO ] 2022-10-11 15:30:21.484 [TestNG-tests-1] LoginTest - By using the login page object reference clicks on login button.
+[INFO ] 2022-10-11 15:30:22.000 [TestNG-tests-1] LoginTest - verifying the edit account information link after login sucess/
+[INFO ] 2022-10-11 15:37:44.917 [TestNG-tests-1] LoginTest - Open URL
+[INFO ] 2022-10-11 15:37:50.081 [TestNG-tests-1] LoginTest - Open URL
+[INFO ] 2022-10-11 15:37:54.686 [TestNG-tests-1] LoginTest - Open URL
+[INFO ] 2022-10-11 15:37:55.794 [TestNG-tests-1] LoginTest - Created Landing page object.
+[INFO ] 2022-10-11 15:37:55.794 [TestNG-tests-1] LoginTest - By using the landing page object reference clicks on the myAccount.
+[INFO ] 2022-10-11 15:37:55.895 [TestNG-tests-1] LoginTest - By using the landing page object reference clicks on the Login.
+[INFO ] 2022-10-11 15:37:56.437 [TestNG-tests-1] LoginTest - Created Login page object.
+[INFO ] 2022-10-11 15:37:56.437 [TestNG-tests-1] LoginTest - By using the login page object reference enter username.
+[INFO ] 2022-10-11 15:37:56.618 [TestNG-tests-1] LoginTest - By using the login page object reference enter password.
+[INFO ] 2022-10-11 15:37:56.739 [TestNG-tests-1] LoginTest - By using the login page object reference clicks on login button.
+[INFO ] 2022-10-11 15:37:57.284 [TestNG-tests-1] LoginTest - verifying the edit account information link after login sucess/
+[INFO ] 2022-10-11 15:52:42.733 [TestNG-tests-1] LoginTest - Open URL
+[INFO ] 2022-10-11 15:52:49.133 [TestNG-tests-1] LoginTest - Open URL
+[INFO ] 2022-10-11 15:52:54.500 [TestNG-tests-1] LoginTest - Open URL
+[INFO ] 2022-10-11 15:52:55.662 [TestNG-tests-1] LoginTest - Created Landing page object.
+[INFO ] 2022-10-11 15:52:55.662 [TestNG-tests-1] LoginTest - By using the landing page object reference clicks on the myAccount.
+[INFO ] 2022-10-11 15:52:55.920 [TestNG-tests-1] LoginTest - By using the landing page object reference clicks on the Login.
+[INFO ] 2022-10-11 15:52:56.637 [TestNG-tests-1] LoginTest - Created Login page object.
+[INFO ] 2022-10-11 15:52:56.637 [TestNG-tests-1] LoginTest - By using the login page object reference enter username.
+[INFO ] 2022-10-11 15:52:56.806 [TestNG-tests-1] LoginTest - By using the login page object reference enter password.
+[INFO ] 2022-10-11 15:52:56.925 [TestNG-tests-1] LoginTest - By using the login page object reference clicks on login button.
+[INFO ] 2022-10-11 15:52:57.472 [TestNG-tests-1] LoginTest - verifying the edit account information link after login sucess/
